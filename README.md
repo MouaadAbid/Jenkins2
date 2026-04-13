@@ -1,5 +1,5 @@
 # TP Jenkins – Boutique en ligne
-## ICDE848 – Intégration Continue : Serveur, Tests & Métriques (first commit hello world --- )
+## ICDE848 – Intégration Continue : Serveur, Tests & Métriques bbbbbbbbb
 
 ---
 
