@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * Service métier de gestion des commandes.
- * ICDE848 – TP Jenkinsssssss
+ * ICDE848 – TP Jenkinsmmmmmmmmmm
  */
 public class CommandeService {
 
