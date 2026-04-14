@@ -32,7 +32,7 @@ tp-jenkins/
 - Maven 3.9+ (`mvn -version`)
 - Git (`git --version`)
 
-### Cloner et tester en local mmmmmgggggg
+### Cloner et tester en local 
 
 ```bash
 # Cloner le projet
