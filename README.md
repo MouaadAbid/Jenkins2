@@ -1,9 +1,9 @@
-# TP Jenkins – Boutique en ligne
-## ICDE848 – Intégration Continue : Serveur, Tests & Métriques bbbbbbbbb
+#  Boutique en ligne
+## Intégration Continue : Serveur, Tests & Métriques 
 
 ---
 
-## 📁 Structuret 
+##  Structuret 
 
 ```
 tp-jenkins/
@@ -25,7 +25,7 @@ tp-jenkins/
 
 ---
 
-## 🚀 Démarrage rapide
+## Démarrage rapide
 
 ### Prérequis
 - Java 17 (`java -version`)
@@ -59,7 +59,7 @@ Tests run: 3,  Failures: 0, Errors: 0, Skipped: 0  (intégration)
 
 ---
 
-## 📊 Rapports générés
+##  Rapports générés
 
 Après `mvn clean verify checkstyle:checkstyle pmd:pmd pmd:cpd spotbugs:spotbugs` :
 
@@ -75,7 +75,7 @@ Après `mvn clean verify checkstyle:checkstyle pmd:pmd pmd:cpd spotbugs:spotbugs
 
 ---
 
-## 🔧 Configuration Jenkins requise
+##  Configuration Jenkins requise
 
 ### Global Tool Configuration
 - JDK : nom `JDK17`, Java 17
@@ -104,7 +104,7 @@ Warnings NG – SpotBugs       : **/spotbugsXml.xml
 
 ---
 
-## 📚 Ressources
+##  Ressources
 
 - [Jenkins.io](https://jenkins.io) – Documentation officielle
 - [JUnit 5](https://junit.org/junit5/) – Documentation JUnit
