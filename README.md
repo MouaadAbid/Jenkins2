@@ -111,3 +111,6 @@ Warnings NG – SpotBugs       : **/spotbugsXml.xml
 - [JaCoCo](https://www.jacoco.org) – Documentation couverture
 - [Checkstyle](https://checkstyle.org) – Règles disponibles
 - [SpotBugs](https://spotbugs.github.io) – Documentation
+
+username : admin    
+password : bf028e29c67a4d9187ff0786306f4147
