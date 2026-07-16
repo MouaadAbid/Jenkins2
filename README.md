@@ -1,5 +1,14 @@
 #  Boutique en ligne
 ## Intégration Continue : Serveur, Tests & Métriques 
+ C'est un projet d'intégration continue (CI) pour une boutique en ligne en Java.
+
+Objectif principal :
+Démontrer un pipeline Jenkins complet avec :
+
+- Tests unitaires (11 tests)
+- Tests d'intégration (3 tests)
+- Couverture de code (JaCoCo)
+- Analyse qualité (Checkstyle, PMD, SpotBugs)
 
 ---
 
